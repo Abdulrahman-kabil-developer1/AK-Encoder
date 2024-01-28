@@ -2,6 +2,7 @@
 # AK Encoder
 
 AK Encoder is a desktop application built with Python and PyQt5 for encrypting and decrypting text using the AES algorithm in CBC mode.
+**[Download Now](https://drive.google.com/file/d/1aY6VAlUQTDeJSBclIe4ogJAqPMrV4127/view?usp=sharing)**
 
 ## Table of Contents
 - [Features](#features)
